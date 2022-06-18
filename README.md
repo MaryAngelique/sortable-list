@@ -16,11 +16,11 @@
 
 Users should be able to:
 
-#### - 
+#### - See the top 10 richest man
 
-#### - 
+#### - Reorder the list to "guess"
 
-#### - 
+#### - Click on check order to see if the users guessed the order of the list
 
 
 ### Links
