@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Sortable List GitHub Solution](https://github.com/MaryAngelique/sortable-list)
-- Live Site URL: Sortable List Website
+- Live Site URL: [Sortable List Website](https://sortable-list.vercel.app/)
 
 ## My process
 
@@ -34,8 +34,6 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - VanillaJS
-- Asynchronous JavaScript
-- API Request
 - CSS custom properties
 - CSS Flexbox properties
 - CSS Grid properties
