@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
-- Live Site URL: [ Website](Deployed website)
+- Solution URL: [Sortable List GitHub Solution](https://github.com/MaryAngelique/sortable-list)
+- Live Site URL: Sortable List Website
 
 ## My process
 
